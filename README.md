@@ -67,4 +67,37 @@ pelo fato do alto contingente de alunos que ingressam no curso.
 
 PERCEPÇÕES: 
 
-Pela análise é possível ver que cursos voltados mais para as áreas de tecnologia e exatas há um grande contingente de público masculino, indicando que talvez essa parte seja mais inclinada a áreas voltadas que mexam mais com números. E vemos também que cursos voltados mais para as áreas de humanas e saúde apresentam um público feminino maior, indicando afinidade com biológicas e relacionamentos interpessoais voltados pra áreas que lidem com a sociedade no geral.  
+Pela análise é possível ver que cursos voltados mais para as áreas de tecnologia e exatas há um grande contingente de público masculino, indicando que talvez essa parte seja mais inclinada a áreas voltadas que mexam mais com números. E vemos também que cursos voltados mais para as áreas de humanas e saúde apresentam um público feminino maior, indicando afinidade com biológicas e relacionamentos interpessoais voltados pra áreas que lidem com a sociedade no geral. 
+COMPARAÇÃO COM O PÚBLICO DA UFRN NO GERAL: 
+
+Os gráficos de cursos de Graduação não se relacionam tanto quando comparados com a Universidade no geral, pois enquanto os números da UFRN indicam um público quase igual pra ambos os sexos, o que se percebe é que os centros e cursos onde a população feminina é maior estão em proporção bem menor aos que o público masculino é maioria. 
+
+ANÁLISE DOS CURSOS DE PÓS-GRADUAÇÃO EM RELAÇÃO AS DIFERENÇAS DE GÊNERO: 
+
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação 
+
+Alta incidência de público masculino, porém a quantidade de mulheres é significante embora pequena e se nota que não há uma alta taxa de saída do público feminino o que indica que talvez o número constante possa crescer futuramente 
+
+Programa de Pós-Graduação em Sistemas e Computação 
+
+Acontece a mesma coisa que no caso anterior, público masculino alto, porém aqui notamos que o número feminino está começando a cair, podendo indicar quase ausência ou total ausência de mulheres 
+
+Programa de Pós-Graduação em Engenharia de Software 
+
+Um público feminino quase inexistente, onde se vê que no primeiro ano do início do programa já não havia mulheres, dos 3 anos posteriores havia apenas 1 mulher na turma, até o ponto de 2019 não haver mais mulheres  
+
+Programa de Pós-Graduação em Inovação em Tecnologias Educacionais 
+
+Consideravelmente algo novo, pois podemos comparar os resultados por apenas 3 anos, começou com o público masculino sendo maior, porém com uma diferença quase inexistente, e com o passar dos últimos 2 anos, o público feminino cresceu e ultrapassou em até 2 vezes o público masculino 
+
+Programa de Pós-Graduação em Bioinformática 
+
+Começou com um número quase igual dos dois sexos, porém logo depois houve uma queda pela metade do público feminino até o ponto dele sumir no ano de 2019. 
+
+PERCEPÇÕES: 
+
+Deu pra se notar pelas análises que a área da tecnologia é escassa em mulheres, havendo até programas de pós-graduação onde o nível de incidência feminino é tão baixo chegando a anos onde ele nem sequer existe. Vê- se necessário políticas que incentivem a vinda de mulheres pra o ramo da tecnologia. 
+
+COMPARAÇÃO COM O PÚBLICO DA UFRN NO GERAL: 
+
+Os gráficos de cursos de Pós-Graduação não se relacionam tanto quando comparados com a Universidade no geral (pois essa vem mantendo um número equivalente de homens e mulheres), enquanto nesses cursos as mulheres são uma parte mínima dos alunos, em exceção no Programa de Pós-Graduação em Inovação em Tecnologias Educacionais, onde se vê grande afinidade pela área de relacionamentos interpessoais. 
