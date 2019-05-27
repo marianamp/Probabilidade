@@ -1,4 +1,4 @@
-|ANÁLISE DOS CURSOS DE GRADUAÇÃO EM RELAÇÃO AS DIFERENÇAS DE GÊNERO:| 
+|ANÁLISE DOS CURSOS DE GRADUAÇÃO EM RELAÇÃO AS DIFERENÇAS DE GÊNERO| 
 
 ->Centro de Biociências - CB 
 
@@ -81,7 +81,7 @@ COMPARAÇÃO COM O PÚBLICO DA UFRN NO GERAL:
   da UFRN indicam um público quase igual pra ambos os sexos, o que se percebe é que os centros e cursos onde a população feminina
   é maior estão em proporção bem menor aos que o público masculino é maioria. 
 
-|ANÁLISE DOS CURSOS DE PÓS-GRADUAÇÃO EM RELAÇÃO AS DIFERENÇAS DE GÊNERO:| 
+|ANÁLISE DOS CURSOS DE PÓS-GRADUAÇÃO EM RELAÇÃO AS DIFERENÇAS DE GÊNERO| 
 
 ->Programa de Pós-Graduação em Engenharia Elétrica e de Computação 
 
