@@ -79,7 +79,8 @@ COMPARAÇÃO COM O PÚBLICO DA UFRN NO GERAL:
 
   Os gráficos de cursos de Graduação não se relacionam tanto quando comparados com a Universidade no geral, pois enquanto os números
   da UFRN indicam um público quase igual pra ambos os sexos, o que se percebe é que os centros e cursos onde a população feminina
-  é maior estão em proporção bem menor aos que o público masculino é maioria. 
+  é maior estão em proporção bem menor aos que o público masculino é maioria.
+  
 
 |ANÁLISE DOS CURSOS DE PÓS-GRADUAÇÃO EM RELAÇÃO AS DIFERENÇAS DE GÊNERO| 
 
